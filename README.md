@@ -1,5 +1,6 @@
-## Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234507F7&size=35&lines=Hi+There+I'm+Srinivasan)](https://git.io/typing-svg)
 
 ![icons8-walter-white](https://user-images.githubusercontent.com/91478125/156687459-47ac29ae-b8e7-4e16-8b8c-731fe7e2d9ca.svg)
 
@@ -28,3 +29,6 @@
 ### Contact Me
 
 - Through Email - srinivasanforu7@gmail.com
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23080012&size=35&center=true&vCenter=true&lines=Thanks+For+Visiting..)](https://git.io/typing-svg)

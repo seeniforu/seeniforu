@@ -19,6 +19,8 @@
 
 ### My Other Profiles
 
+- Portfolio - Gonna Upload Soon... 😆 
+- [My Resume 😂](https://drive.google.com/file/d/1XyHPv2Kxmu14ziFFuae1qh9P9w92WLRA/view?usp=sharing)
 - [LinkedIn](https://in.linkedin.com/in/srinivasan-karthikeyan-b17b3221a) 😃
 - [Hacker Rank](https://www.hackerrank.com/srinivasanforu7) 🔥
 

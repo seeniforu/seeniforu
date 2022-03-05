@@ -30,5 +30,6 @@
 
 - Through Email - srinivasanforu7@gmail.com
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23080012&size=35&center=true&vCenter=true&lines=Thanks+For+Visiting..)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23080012&size=35&center=true&vCenter=true&lines=Thanks+For+Visiting.."></img>
+</p>

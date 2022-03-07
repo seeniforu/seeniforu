@@ -31,5 +31,5 @@
 - Through Email - srinivasanforu7@gmail.com
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23080012&size=35&center=true&vCenter=true&lines=Thanks+For+Visiting.."></img>
+<img src="https://readme-typing-svg.herokuapp.com?color=%230236F7&size=28&lines=Thank+You.."></img>
 </p>

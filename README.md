@@ -9,6 +9,7 @@
 - 😍 Open Minded | Love to Help
 - 😁 Respect other's Point of View
 - 💕 Love to Explore and Learn Things
+- 🎉 Love to Create Own Computer based Products and Applications.
 - 😎 First Profession in IT industry **Automation Tester** 🔥
 - 🤞 Working in Cognizant 
 

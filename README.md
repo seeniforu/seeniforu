@@ -29,11 +29,18 @@
 - Created Small Executable Files like Cleaning Cache etc., [Visit Here](https://github.com/seeniforu/Own-Small-Applicatons)
 - I'll Include whatever Resources I have and Structure it here for Easy Use **(Every thing at one step)**.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seeniforu&theme=nord_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seeniforu&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seeniforu&theme=nord_dark)
+### Socials
 
-Credits :- [Profile Summary Card](https://github-profile-summary-cards.vercel.app/demo.html)
+<p align="left"> <a href="https://www.github.com/seeniforu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+
+### My GitHub Stats
+
+<a href="http://www.github.com/seeniforu"><img src="https://github-readme-stats.vercel.app/api?username=seeniforu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="seeniforu's GitHub stats" /></a>
+
+<a href="http://www.github.com/seeniforu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seeniforu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/seeniforu"><img src="https://activity-graph.herokuapp.com/graph?username=seeniforu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ### My Other Profiles

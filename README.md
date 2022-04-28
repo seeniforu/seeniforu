@@ -6,12 +6,14 @@
 
 ### About Me
 
-- 😍 Open Minded | Love to Help
-- 😁 Respect other's Point of View
-- 💕 Love to Explore and Learn Things
-- 🎉 Love to Create Own Computer based Products and Applications.
-- 😎 First Profession in IT industry **Automation Tester** 🔥
-- 🤞 Working in Cognizant 
+* 😍 Open Minded | Love to Help
+* 😁 Respect other's Point of View
+* 💕 Love to Explore and Learn Things
+* 🎉 Love to Create Own Computer based Products and Applications.
+* 😎 First Profession in IT industry **Automation Tester** 🔥
+* 🤞 Working in Cognizant 
+* 🧠  I'm learning Web 3.0 Development
+* 🤝  I'm open to collaborating on Web Automation and Web 3.0 Development
 
 ### Skills
 

@@ -30,8 +30,8 @@
 ### My Works
 
 - You can use [My First Repository ❤️](https://github.com/seeniforu/Useful_Repository.git) So Many Resources for Public and as well as For me. Just Explore I've Included So Many Resources and Useful Websites. 
-- Created Small Executable Files like Cleaning Cache etc., [Visit Here](https://github.com/seeniforu/Own-Small-Applicatons)
-- I'll Include whatever Resources I have and Structure it here for Easy Use **(Every thing at one step)**.
+- Created [Automation Framework](https://github.com/seeniforu/Automation-Framework) to do Easy Automation using Java + Selenium.
+- Created Small Executable Files like Cleaning Cache, Hiding Files etc., [Visit Here](https://github.com/seeniforu/Own-Small-Applicatons)
 
 ### My Profiles
 
@@ -50,7 +50,8 @@
 
 ### Contact Me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - srinivasanforu7@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] - srinivasanforu7@gmail.com
+
 
 
 <p align="left">

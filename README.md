@@ -37,8 +37,9 @@
 
 - Portfolio - Gonna Upload Soon... 😆 
 - [My Resume 😂](https://drive.google.com/file/d/1XyHPv2Kxmu14ziFFuae1qh9P9w92WLRA/view?usp=sharing)
-- [LinkedIn](https://in.linkedin.com/in/srinivasan-karthikeyan-b17b3221a) 😃
 - [Hacker Rank](https://www.hackerrank.com/srinivasanforu7) 🔥
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/srinivasan-karthikeyan-b17b3221a)
 
 ### My GitHub Stats
 
@@ -50,8 +51,7 @@
 
 ### Contact Me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - srinivasanforu7@gmail.com
-
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivasanforu7@gmail.com)
 
 
 <p align="left">

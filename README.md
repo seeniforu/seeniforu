@@ -35,10 +35,10 @@
 
 ### My Profiles
 
-- Portfolio - Gonna Upload Soon... 😆 
 - [My Resume 😂](https://drive.google.com/file/d/1XyHPv2Kxmu14ziFFuae1qh9P9w92WLRA/view?usp=sharing)
-- [Hacker Rank](https://www.hackerrank.com/srinivasanforu7) 🔥
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/srinivasanforu7)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/srinivasan-karthikeyan-b17b3221a)
 
 ### My GitHub Stats
@@ -52,6 +52,7 @@
 ### Contact Me
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivasanforu7@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/instagram-C83472?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seeni_for_u?utm_medium=copy_link)
 
 
 <p align="left">

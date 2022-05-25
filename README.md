@@ -29,9 +29,10 @@
 
 ### My Works
 
-- You can use [My First Repository ❤️](https://github.com/seeniforu/Useful_Repository.git) So Many Resources for Public and as well as For me. Just Explore I've Included So Many Resources and Useful Websites. 
-- Created [Automation Framework](https://github.com/seeniforu/Automation-Framework) to do Easy Automation using Java + Selenium.
-- Created Small Executable Files like Cleaning Cache, Hiding Files etc., [Visit Here](https://github.com/seeniforu/Own-Small-Applicatons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Automation-Framework&theme=codeSTACKr)](https://github.com/seeniforu/Automation-Framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Useful_Repository&theme=codeSTACKr)](https://github.com/seeniforu/Useful_Repository)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Own-Small-Applicatons&theme=codeSTACKr)](https://github.com/seeniforu/Own-Small-Applicatons)
+
 
 ### My Profiles
 
@@ -53,6 +54,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivasanforu7@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-C83472?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seeni_for_u?utm_medium=copy_link)
+
 
 
 <p align="left">

@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234507F7&size=32&lines=Hi+I'm+Srinivasan)](https://git.io/typing-svg) 
 ![github-header-image (1)](https://user-images.githubusercontent.com/91478125/168420092-0d7dad09-8fe5-4e7a-bde4-1df17458288d.png)
 
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
 
 ### About Me
 

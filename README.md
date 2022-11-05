@@ -15,6 +15,8 @@
 * 🧠  I'm learning Web 3.0 Development
 * 🤝  I'm open to collaborating on Web Automation and Web 3.0 Development
 
+<a href="https://app.daily.dev/seeniforu"><img src="https://api.daily.dev/devcards/7a20a932bb5147f6bff54409e3f06cd5.png?r=9le" width="300" alt="Srinivasan's Dev Card"/></a>
+
 ### My Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

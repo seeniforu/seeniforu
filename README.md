@@ -1,7 +1,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234507F7&size=32&lines=Hi+I'm+Srinivasan)](https://git.io/typing-svg) 
-![github-header-image (1)](https://user-images.githubusercontent.com/91478125/168420092-0d7dad09-8fe5-4e7a-bde4-1df17458288d.png)
 
 
 ### About Me
@@ -9,11 +8,8 @@
 * 😍 Open Minded | Love to Help
 * 😁 Respect other's Point of View
 * 💕 Love to Explore and Learn Things
-* 🎉 Love to Create Own Computer based Products and Applications.
 * 😎 First Profession in IT industry **Automation Tester** 🔥
-* 🤞 Working in Cognizant 
-* 🧠  I'm learning Web 3.0 Development
-* 🤝  I'm open to collaborating on Web Automation and Web 3.0 Development
+* 🤝 I'm open to collaborating on Building Automation frameworks
 
 <a href="https://app.daily.dev/seeniforu"><img src="https://api.daily.dev/devcards/7a20a932bb5147f6bff54409e3f06cd5.png?r=9le" width="300" alt="Srinivasan's Dev Card"/></a>
 
@@ -28,14 +24,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Useful_Repository&theme=codeSTACKr)](https://github.com/seeniforu/Useful_Repository)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Automation-Framework&theme=codeSTACKr)](https://github.com/seeniforu/Automation-Framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Own-Small-Applicatons&theme=codeSTACKr)](https://github.com/seeniforu/Own-Small-Applicatons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seeniforu&repo=Python-Automation-Framework&theme=codeSTACKr)](https://github.com/seeniforu/Python-Automation-Framework)
 
 
 ### My Profiles
 
-- [My Resume](https://app.flowcv.com/resume-feedback/u5aWrxP4yZSZtm74-AtsX)
+- [My Resume](https://flowcv.com/resume/st4r0gfhui)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://flowcv.me/srinivasan)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/srinivasanforu7)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/srinivasan-karthikeyan-b17b3221a)
 
@@ -50,7 +45,6 @@
 ### Contact Me
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivasanforu7@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-C83472?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seeni_for_u?utm_medium=copy_link)
 
 
 

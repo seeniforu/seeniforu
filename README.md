@@ -5,10 +5,8 @@
 
 ### About Me
 
-* 😍 Open Minded | Love to Help
-* 😁 Respect other's Point of View
+* 😍 Open Minded..
 * 💕 Love to Explore and Learn Things
-* 😎 Started in IT industry as **Automation Tester** 🔥
 * 🤝 I'm open to collaborating on Building Automation frameworks
 
 -------------------
